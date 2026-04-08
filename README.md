@@ -13,4 +13,5 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 
 
 
-<img src ="https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/blob/main/data_science.jpg" height = "500">
+<img src ="https://github.com/ArpanChaudhari/Data-Science-/blob/main/data_science.jpg" height = "500">
+
